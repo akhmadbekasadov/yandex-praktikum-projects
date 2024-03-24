@@ -1,4 +1,4 @@
-# Data Science Projects - Yandex Education
+# Data Science Projects - Yandex Education (2023-2024)
 
 Welcome to my repository where I document all the projects I have completed as part of the Data Science program by Yandex. This includes both mini-projects completed after each topic and the final projects at the end of each module.
 
